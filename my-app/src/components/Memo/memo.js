@@ -3,7 +3,7 @@ import hat from './hat.png';
 import './memo.css';
 let Memo = () => {
     return (
-        <div class="center">
+        <div class="body">
             <h1>Currently Under Construction</h1>
             <img src={hat}></img>
         </div>
