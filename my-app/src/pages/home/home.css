@@ -1,9 +1,14 @@
 * {
+    
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 body {
     background: black;
-    color: white;
+    color: whitesmoke;
+}
+
+#body {
+    min-height: 100vh;
 }

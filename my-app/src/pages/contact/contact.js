@@ -1,6 +1,7 @@
 import React, {useState} from 'react'
 import './contact.css';
 import Header from '../../components/Header/header.js';
+import Footer from '../../components/Footer/footer.js';
 
 let ContactPage = () => {
     return (
@@ -15,6 +16,7 @@ let ContactPage = () => {
                     </ul>
                 </div>
             </div>
+            <Footer />
         </div>
     )
 }
